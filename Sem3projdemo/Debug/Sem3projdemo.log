@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(491,20): warning C4101: 'x': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(504,20): warning C4101: 'age': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(540,20): warning C4101: 's': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(663,20): warning C4101: 'x': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(678,20): warning C4101: 'x': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(697,20): warning C4101: 'x': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1042,20): warning C4101: 'x': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1055,20): warning C4101: 'age': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1094,20): warning C4101: 'm': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1370,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1411,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1451,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1497,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1537,38): warning C4101: 'code': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1537,26): warning C4101: 'id': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1537,9): warning C4101: 'experience': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(1537,21): warning C4101: 'age': unreferenced local variable
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(71): warning C4715: 'login::getlogin': not all control paths return a value
+C:\Users\dell\source\repos\Sem3projdemo\Sem3projdemo\Source.cpp(127): warning C4715: 'Person::getlogin': not all control paths return a value
+  Sem3projdemo.vcxproj -> C:\Users\dell\source\repos\Sem3projdemo\Debug\Sem3projdemo.exe
